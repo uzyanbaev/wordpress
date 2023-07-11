@@ -3,4 +3,4 @@
 ### Проектная работа №1 из курса Ивана Петриченко web-разработчик
 #### В проекте были использованы:
 * HTML | CSS
-#### Посмотреть проект: uzyanbaev.github.io/wordpress/
+#### Посмотреть проект: https://uzyanbaev.github.io/wordpress/
